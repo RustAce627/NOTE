@@ -1,2 +1,6 @@
 .idea
 Settings.mjs
+
+*.bkp
+
+.DS_Store
